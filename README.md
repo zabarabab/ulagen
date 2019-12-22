@@ -1,4 +1,4 @@
-`ulagen.py` is a short python script to generate an IPv6 unique local address as 
+`ulagen.py` is a short python3 script to generate an IPv6 unique local address as 
 per the pseudo-random algorithm defined in [RFC 
 4193](https://tools.ietf.org/html/rfc4193).  Run it without any arguments.  For 
 example:
